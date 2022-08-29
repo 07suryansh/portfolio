@@ -8,6 +8,8 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Experience from './components/Experience'
 import Education from './components/Education'
+import Projects from './components/Projects'
+import Certificates from './components/Certificates'
 
 function App() {
   useEffect(() => {
@@ -24,6 +26,8 @@ function App() {
       <div data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
         <About />
         <Skills />
+        <Projects/>
+        <Certificates/>
         <Experience/>
         <Education/>
         <ContactMe />

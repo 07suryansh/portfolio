@@ -1,4 +1,5 @@
 import { FaArrowRight } from 'react-icons/fa';
+import { SiWhatsapp } from 'react-icons/si';
 
 export default function ContactMe() {
   return (
@@ -12,6 +13,12 @@ export default function ContactMe() {
           </div>
         </span>
       </a>
+      
+      <SiWhatsapp color="green" className="mx-auto text-4xl mt-6" />
+          <p className="mt-2 text-xl font-light text-center">
+            +91 9889666781
+          </p>
+      
     </div>
   );
 }

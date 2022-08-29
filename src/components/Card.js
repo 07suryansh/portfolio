@@ -45,13 +45,7 @@ function Card() {
               <FaLinkedin />
               <span className="sr-only">LinkedIn</span>
             </a>
-            <a
-              className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-red-500 hover:bg-red-500 rounded-full hover:text-white transition ease-in-out delay-900 hover:-translate-y-1 hover:scale-110 duration-300"
-              href="https://https://www.instagram.com/07suryansh/"
-            >
-              <FaInstagram />
-              <span className="sr-only">Twitter</span>
-            </a>
+            
             <a
               className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-700 hover:bg-black rounded-full hover:text-white transition ease-in-out delay-900 hover:-translate-y-1 hover:scale-110 duration-300"
               href="mailto:07suryansh@gmail.com"
@@ -63,7 +57,7 @@ function Card() {
         </div>
         <button className="mx-auto mt-2 py-1 px-4 rounded-lg drop-shadow-sm text-black border-solid border-2 border-blue-500  hover:text-white hover:bg-blue-500
         transition ease-in-out delay-900  hover:-translate-y-1 hover:scale-110 duration-200"
-        onClick={()=>openInNewTab("https://drive.google.com/file/d/1TQ1ObIeRttk_kCQzgkxZ2T5RjLSLMqlL/view?usp=sharing")}
+        onClick={()=>openInNewTab("https://drive.google.com/file/d/1lZ6DlpKc9T6bc3eNCNrMus0T6RdBHXjN/view?usp=sharing")}
         >Resume</button>
       </div>
     </div>

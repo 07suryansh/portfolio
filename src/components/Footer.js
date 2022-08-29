@@ -17,10 +17,7 @@ function Footer() {
               <FaLinkedin />
                 <span className="sr-only">LinkedIn</span>
               </a>
-              <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-red-500 hover:bg-red-500 rounded-full hover:text-white transition-colors duration-300" href="https://https://www.instagram.com/07suryansh/">
-              <FaInstagram />
-                <span className="sr-only">Twitter</span>  
-              </a>
+            
               <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-700 hover:bg-black rounded-full hover:text-white transition-colors duration-300" href="mailto:07suryansh@gmail.com">
               <FaRegEnvelope />
                 <span className="sr-only">Email</span>  
