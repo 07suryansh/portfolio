@@ -73,7 +73,7 @@ function Skills() {
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <SiTailwindcss color="#66BFBF" className="mx-auto text-4xl" />
           <p className="mt-6 text-base font-light text-center">
-            TailwindCSS
+            Tailwind CSS
           </p>
         </div>
         

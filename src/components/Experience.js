@@ -14,22 +14,31 @@ export default function Experience() {
 
         <div className="flex flex-col w-40 p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <img src={srijan} alt="" className="mx-auto text-4xl" />
-          <p className="mt-6 text-base font-light text-center">
+          <p className="mt-6 text-base font-medium text-center">
             SRIJAN
+          </p>
+          <p className="mt-2 text-sm font-light text-center">
+          October 2021 - present
           </p>
         </div>
 
         <div className="flex flex-col w-40 p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <img src={appteam} alt="" className="mx-auto text-4xl" />
-          <p className="mt-6 text-base font-light text-center">
+          <p className="mt-6 text-base font-medium text-center">
             App team NITH
+          </p>
+          <p className="mt-2 text-sm font-light text-center">
+          December 2021 - present
           </p>
         </div>
 
         <div className="flex flex-col w-40 p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
           <img src={gdsc} alt="" className="mx-auto text-4xl" />
-          <p className="mt-6 text-base font-light text-center">
+          <p className="mt-6 text-base font-medium text-center">
             GDSC NITH
+          </p>
+          <p className="mt-2 text-sm font-light text-center">
+          August 2022 - Present
           </p>
         </div>
         
