@@ -10,7 +10,7 @@ export default function Certificates() {
   return (
     <div className='max-w-4xl mx-auto justify-center py-12' id="tech">
         <p className="text-2xl text-black  md:text-4xl font-bold text-center pt-4">
-          Projects
+          Certificates
         </p>
     <div className = "flex flex-wrap justify-center pt-2 snap-x">
         <div className="flex flex-col w-40 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-96 snap-center">
