@@ -1,7 +1,6 @@
 import React from 'react'
 import { FaGithub } from 'react-icons/fa';
 import { FaLinkedin } from 'react-icons/fa';
-import { FaInstagram } from 'react-icons/fa';
 import { FaRegEnvelope } from 'react-icons/fa';
 
 
@@ -27,7 +26,7 @@ function Footer() {
             </div>
             <div className="flex align-center justify-center mt-4">
               <p className="text-black mb-4">
-                  Made with <span className = "mr-2" role="img" aria-label="heart">💙</span>by<a className="text-blue-500 font-semibold hover:underline" href="mailto:me.shivansh007@gmail.com"> Suryansh Singh Bisen</a>
+                  Made with <span className = "mr-2" role="img" aria-label="heart">💙</span>by<a className="text-blue-500 font-semibold hover:underline" href="mailto:07suryansh@gmail.com"> Suryansh Singh Bisen</a>
               </p>
               </div>
     </div>
